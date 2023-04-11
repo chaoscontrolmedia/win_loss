@@ -70,7 +70,7 @@ int main(){
    
         
    //The actual total, the total inputs -valid inputs. 
-   //I add +1 because raw_total counts exiting the program due to bad inputs in it's total.
+  
    double total = (raw_total - inv);
 
 
